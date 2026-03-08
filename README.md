@@ -1,4 +1,4 @@
-# apana-first-code
+# apna-first-code
 This is my first code on github.
 <br>
 Author Anshumal yadav
